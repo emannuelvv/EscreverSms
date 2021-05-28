@@ -1,0 +1,6 @@
+D:\AcademiaProgramador\EscreverSms\EscreverSMS\bin\Debug\EscreverSMS.dll
+D:\AcademiaProgramador\EscreverSms\EscreverSMS\bin\Debug\EscreverSMS.pdb
+D:\AcademiaProgramador\EscreverSms\EscreverSMS\obj\Debug\EscreverSMS.csprojAssemblyReference.cache
+D:\AcademiaProgramador\EscreverSms\EscreverSMS\obj\Debug\EscreverSMS.csproj.CoreCompileInputs.cache
+D:\AcademiaProgramador\EscreverSms\EscreverSMS\obj\Debug\EscreverSMS.dll
+D:\AcademiaProgramador\EscreverSms\EscreverSMS\obj\Debug\EscreverSMS.pdb
